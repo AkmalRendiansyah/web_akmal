@@ -121,7 +121,7 @@ header {
 }
 @media screen and (max-width: 1200px) {
     nav ul {
-        justify-content: center;
+        justify-content: column;
       }
      
       main aside {
